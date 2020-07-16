@@ -14,7 +14,7 @@ import { ProdutoService } from './clienteService/Controller/Produto.service';
       host: 'localhost',
       port: 50558,
       username: 'nauamf12',
-      password: 'jabulani',
+      password: '32423432',
       database: 'nest-produto',
       entities: [
         CadastroCliente,
